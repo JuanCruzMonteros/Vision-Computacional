@@ -30,4 +30,4 @@ Inconvenientes:
 * El referi debería detectarlo?
 
 Para resolver estos inconvenientes podemos bajar un dataset de roboflow
-https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/19#
+https://universe.roboflow.com/roboflow-jvuqo/   -3zvbc/dataset/19#
