@@ -1,5 +1,6 @@
 Instalacion ultralytics
 pip install ultralytics
+pip install supervision
 
 
 Decisiones elegidas:
